@@ -12,6 +12,7 @@ Before running the script, ensure that you have all the necessary Python package
     ```bash
     git clone https://github.com/yourusername/dgnss-xml-to-gml.git
     cd dgnss-xml-to-gml
+    cd source
     ```
 
 2. Install the required Python packages:
