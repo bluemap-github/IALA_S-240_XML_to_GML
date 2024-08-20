@@ -35,5 +35,6 @@ python dgnss_xml_to_gml.py
 ## Result
 
 The generated GML data can be visualized here: http://new-tds.bluemap.kr/
+<br> and the result of visualizing the GML data is as follows:
 
 ![Result](./img/result.PNG)
