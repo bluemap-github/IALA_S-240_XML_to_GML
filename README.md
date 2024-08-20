@@ -1,6 +1,9 @@
-# DGNSS XML to GML Converter
+# IALA S-240 XML to GML Converter
 
-This repository contains a Python script that converts DGNSS XML data into a GML format. The script reads XML data, processes it, and outputs a GML file according to specific requirements.
+This repository contains a Python script that converts IALA's S-240 (DGNSS) XML data into GML format. The script reads the S-240 XML file, extracts the data, and outputs it as a GML file required by the S-200 Testbed.
+You can get the S-240 data from here: https://www.e-navigation.nl/list-DGNSS-stations
+
+![Result](./img/input.PNG)
 
 
 ## Requirements
@@ -31,4 +34,6 @@ python dgnss_xml_to_gml.py
 
 ## Result
 
-![Result](result.PNG)
+The generated GML data can be visualized here: http://new-tds.bluemap.kr/
+
+![Result](./img/result.PNG)
