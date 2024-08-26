@@ -115,7 +115,7 @@ def create_radio_station_entry(station, index):
 
     info_elem = ET.SubElement(radio_elem, "informationAssociation", {
         "gml:id": f"ib{index:04d}",
-        "xlink:title": "RadioStationToDgnssStationAlmanac",
+        "xlink:title": "RadioStationToDgnssStationAlmanac",  # 두 번째 유형
         "xlink:href": f"#DGNSSSTATIONALMANAC-{index:04d}"
     })
 
@@ -134,7 +134,7 @@ def create_dgnss_station_region_entry(region_data, index):
     for assoc in region_data['associations']:
         ET.SubElement(region_elem, "informationAssociation", {
             "gml:id": f"ia{assoc['id']:04d}",
-            "xlink:title": assoc["rta_title"],
+            "xlink:title": "DgnssStationRegionToDgnssStationAlmanac",  # 첫 번째 유형
             "xlink:href": assoc["sharp_almanac_id"]
         })
 
@@ -162,7 +162,6 @@ def process_dgnss_station_region(stations):
 
         association_data = {
             "id": index,
-            "rta_title": "RadioStationToDgnssStationAlmanac",
             "sharp_almanac_id": f"#DGNSSSTATIONALMANAC-{index:04d}"
         }
         region_data_map[country]['associations'].append(association_data)

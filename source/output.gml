@@ -2,12 +2,12 @@
 <S240:DataSet xmlns:S240="http://www.iho.int/S240/gml/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:S100="http://www.iho.int/s100gml/1.0" xmlns:s100_profile="http://www.iho.int/S-100/profile/s100_gmlProfile" xmlns:xlink="http://www.w3.org/1999/xlink" gml:id="240DATA">
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0001">
-            <informationAssociation gml:id="ia0096" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0096"/>
-            <informationAssociation gml:id="ia0097" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0097"/>
-            <informationAssociation gml:id="ia0098" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0098"/>
-            <informationAssociation gml:id="ia0099" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0099"/>
-            <informationAssociation gml:id="ia0100" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0100"/>
-            <informationAssociation gml:id="ia0101" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0101"/>
+            <informationAssociation gml:id="ia0096" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0096"/>
+            <informationAssociation gml:id="ia0097" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0097"/>
+            <informationAssociation gml:id="ia0098" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0098"/>
+            <informationAssociation gml:id="ia0099" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0099"/>
+            <informationAssociation gml:id="ia0100" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0100"/>
+            <informationAssociation gml:id="ia0101" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0101"/>
             <country>Arab Republic of Egypt</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -15,7 +15,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0002">
-            <informationAssociation gml:id="ia0026" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0026"/>
+            <informationAssociation gml:id="ia0026" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0026"/>
             <country>Bermuda</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-01-01</dateOfLastUpdate>
@@ -23,25 +23,25 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0003">
-            <informationAssociation gml:id="ia0038" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0038"/>
-            <informationAssociation gml:id="ia0039" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0039"/>
-            <informationAssociation gml:id="ia0040" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0040"/>
-            <informationAssociation gml:id="ia0041" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0041"/>
-            <informationAssociation gml:id="ia0042" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0042"/>
-            <informationAssociation gml:id="ia0043" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0043"/>
-            <informationAssociation gml:id="ia0044" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0044"/>
-            <informationAssociation gml:id="ia0045" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0045"/>
-            <informationAssociation gml:id="ia0046" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0046"/>
-            <informationAssociation gml:id="ia0047" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0047"/>
-            <informationAssociation gml:id="ia0048" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0048"/>
-            <informationAssociation gml:id="ia0049" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0049"/>
-            <informationAssociation gml:id="ia0050" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0050"/>
-            <informationAssociation gml:id="ia0051" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0051"/>
-            <informationAssociation gml:id="ia0052" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0052"/>
-            <informationAssociation gml:id="ia0053" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0053"/>
-            <informationAssociation gml:id="ia0054" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0054"/>
-            <informationAssociation gml:id="ia0055" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0055"/>
-            <informationAssociation gml:id="ia0056" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0056"/>
+            <informationAssociation gml:id="ia0038" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0038"/>
+            <informationAssociation gml:id="ia0039" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0039"/>
+            <informationAssociation gml:id="ia0040" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0040"/>
+            <informationAssociation gml:id="ia0041" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0041"/>
+            <informationAssociation gml:id="ia0042" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0042"/>
+            <informationAssociation gml:id="ia0043" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0043"/>
+            <informationAssociation gml:id="ia0044" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0044"/>
+            <informationAssociation gml:id="ia0045" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0045"/>
+            <informationAssociation gml:id="ia0046" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0046"/>
+            <informationAssociation gml:id="ia0047" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0047"/>
+            <informationAssociation gml:id="ia0048" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0048"/>
+            <informationAssociation gml:id="ia0049" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0049"/>
+            <informationAssociation gml:id="ia0050" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0050"/>
+            <informationAssociation gml:id="ia0051" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0051"/>
+            <informationAssociation gml:id="ia0052" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0052"/>
+            <informationAssociation gml:id="ia0053" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0053"/>
+            <informationAssociation gml:id="ia0054" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0054"/>
+            <informationAssociation gml:id="ia0055" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0055"/>
+            <informationAssociation gml:id="ia0056" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0056"/>
             <country>Canada</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -49,8 +49,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0004">
-            <informationAssociation gml:id="ia0325" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0325"/>
-            <informationAssociation gml:id="ia0326" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0326"/>
+            <informationAssociation gml:id="ia0325" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0325"/>
+            <informationAssociation gml:id="ia0326" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0326"/>
             <country>Chinees Taipei, Province of China</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -58,22 +58,22 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0005">
-            <informationAssociation gml:id="ia0003" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0003"/>
-            <informationAssociation gml:id="ia0004" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0004"/>
-            <informationAssociation gml:id="ia0005" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0005"/>
-            <informationAssociation gml:id="ia0006" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0006"/>
-            <informationAssociation gml:id="ia0007" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0007"/>
-            <informationAssociation gml:id="ia0008" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0008"/>
-            <informationAssociation gml:id="ia0009" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0009"/>
-            <informationAssociation gml:id="ia0010" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0010"/>
-            <informationAssociation gml:id="ia0011" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0011"/>
-            <informationAssociation gml:id="ia0012" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0012"/>
-            <informationAssociation gml:id="ia0013" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0013"/>
-            <informationAssociation gml:id="ia0014" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0014"/>
-            <informationAssociation gml:id="ia0015" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0015"/>
-            <informationAssociation gml:id="ia0016" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0016"/>
-            <informationAssociation gml:id="ia0017" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0017"/>
-            <informationAssociation gml:id="ia0018" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0018"/>
+            <informationAssociation gml:id="ia0003" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0003"/>
+            <informationAssociation gml:id="ia0004" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0004"/>
+            <informationAssociation gml:id="ia0005" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0005"/>
+            <informationAssociation gml:id="ia0006" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0006"/>
+            <informationAssociation gml:id="ia0007" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0007"/>
+            <informationAssociation gml:id="ia0008" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0008"/>
+            <informationAssociation gml:id="ia0009" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0009"/>
+            <informationAssociation gml:id="ia0010" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0010"/>
+            <informationAssociation gml:id="ia0011" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0011"/>
+            <informationAssociation gml:id="ia0012" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0012"/>
+            <informationAssociation gml:id="ia0013" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0013"/>
+            <informationAssociation gml:id="ia0014" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0014"/>
+            <informationAssociation gml:id="ia0015" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0015"/>
+            <informationAssociation gml:id="ia0016" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0016"/>
+            <informationAssociation gml:id="ia0017" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0017"/>
+            <informationAssociation gml:id="ia0018" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0018"/>
             <country>Commonwealth of Australia</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2021-07-01</dateOfLastUpdate>
@@ -81,7 +81,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0006">
-            <informationAssociation gml:id="ia0079" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0079"/>
+            <informationAssociation gml:id="ia0079" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0079"/>
             <country>Czech Republic</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -89,7 +89,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0007">
-            <informationAssociation gml:id="ia0131" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0131"/>
+            <informationAssociation gml:id="ia0131" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0131"/>
             <country>Faroe Islands</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -97,17 +97,17 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0008">
-            <informationAssociation gml:id="ia0080" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0080"/>
-            <informationAssociation gml:id="ia0081" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0081"/>
-            <informationAssociation gml:id="ia0082" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0082"/>
-            <informationAssociation gml:id="ia0083" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0083"/>
-            <informationAssociation gml:id="ia0084" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0084"/>
-            <informationAssociation gml:id="ia0085" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0085"/>
-            <informationAssociation gml:id="ia0086" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0086"/>
-            <informationAssociation gml:id="ia0087" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0087"/>
-            <informationAssociation gml:id="ia0088" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0088"/>
-            <informationAssociation gml:id="ia0089" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0089"/>
-            <informationAssociation gml:id="ia0090" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0090"/>
+            <informationAssociation gml:id="ia0080" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0080"/>
+            <informationAssociation gml:id="ia0081" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0081"/>
+            <informationAssociation gml:id="ia0082" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0082"/>
+            <informationAssociation gml:id="ia0083" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0083"/>
+            <informationAssociation gml:id="ia0084" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0084"/>
+            <informationAssociation gml:id="ia0085" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0085"/>
+            <informationAssociation gml:id="ia0086" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0086"/>
+            <informationAssociation gml:id="ia0087" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0087"/>
+            <informationAssociation gml:id="ia0088" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0088"/>
+            <informationAssociation gml:id="ia0089" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0089"/>
+            <informationAssociation gml:id="ia0090" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0090"/>
             <country>Federal Republic of Germany</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -115,12 +115,12 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0009">
-            <informationAssociation gml:id="ia0237" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0237"/>
-            <informationAssociation gml:id="ia0238" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0238"/>
-            <informationAssociation gml:id="ia0239" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0239"/>
-            <informationAssociation gml:id="ia0240" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0240"/>
-            <informationAssociation gml:id="ia0241" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0241"/>
-            <informationAssociation gml:id="ia0242" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0242"/>
+            <informationAssociation gml:id="ia0237" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0237"/>
+            <informationAssociation gml:id="ia0238" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0238"/>
+            <informationAssociation gml:id="ia0239" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0239"/>
+            <informationAssociation gml:id="ia0240" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0240"/>
+            <informationAssociation gml:id="ia0241" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0241"/>
+            <informationAssociation gml:id="ia0242" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0242"/>
             <country>Federation of Malaysia</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -128,17 +128,17 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0010">
-            <informationAssociation gml:id="ia0027" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0027"/>
-            <informationAssociation gml:id="ia0028" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0028"/>
-            <informationAssociation gml:id="ia0029" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0029"/>
-            <informationAssociation gml:id="ia0030" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0030"/>
-            <informationAssociation gml:id="ia0031" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0031"/>
-            <informationAssociation gml:id="ia0032" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0032"/>
-            <informationAssociation gml:id="ia0033" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0033"/>
-            <informationAssociation gml:id="ia0034" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0034"/>
-            <informationAssociation gml:id="ia0035" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0035"/>
-            <informationAssociation gml:id="ia0036" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0036"/>
-            <informationAssociation gml:id="ia0037" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0037"/>
+            <informationAssociation gml:id="ia0027" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0027"/>
+            <informationAssociation gml:id="ia0028" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0028"/>
+            <informationAssociation gml:id="ia0029" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0029"/>
+            <informationAssociation gml:id="ia0030" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0030"/>
+            <informationAssociation gml:id="ia0031" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0031"/>
+            <informationAssociation gml:id="ia0032" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0032"/>
+            <informationAssociation gml:id="ia0033" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0033"/>
+            <informationAssociation gml:id="ia0034" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0034"/>
+            <informationAssociation gml:id="ia0035" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0035"/>
+            <informationAssociation gml:id="ia0036" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0036"/>
+            <informationAssociation gml:id="ia0037" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0037"/>
             <country>Federative Republic of Brazil</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-08-01</dateOfLastUpdate>
@@ -146,7 +146,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0011">
-            <informationAssociation gml:id="ia0150" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0150"/>
+            <informationAssociation gml:id="ia0150" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0150"/>
             <country>French Guiana</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -154,12 +154,12 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0012">
-            <informationAssociation gml:id="ia0132" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0132"/>
-            <informationAssociation gml:id="ia0133" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0133"/>
-            <informationAssociation gml:id="ia0134" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0134"/>
-            <informationAssociation gml:id="ia0135" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0135"/>
-            <informationAssociation gml:id="ia0136" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0136"/>
-            <informationAssociation gml:id="ia0137" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0137"/>
+            <informationAssociation gml:id="ia0132" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0132"/>
+            <informationAssociation gml:id="ia0133" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0133"/>
+            <informationAssociation gml:id="ia0134" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0134"/>
+            <informationAssociation gml:id="ia0135" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0135"/>
+            <informationAssociation gml:id="ia0136" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0136"/>
+            <informationAssociation gml:id="ia0137" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0137"/>
             <country>French Republic</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2023-09-01</dateOfLastUpdate>
@@ -167,7 +167,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0013">
-            <informationAssociation gml:id="ia0149" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0149"/>
+            <informationAssociation gml:id="ia0149" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0149"/>
             <country>Georgia</country>
             <dateOfIssue>2019-12-01</dateOfIssue>
             <dateOfLastUpdate>2019-12-01</dateOfLastUpdate>
@@ -175,7 +175,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0014">
-            <informationAssociation gml:id="ia0151" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0151"/>
+            <informationAssociation gml:id="ia0151" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0151"/>
             <country>Hong Kong S.A.R., China</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -183,9 +183,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0015">
-            <informationAssociation gml:id="ia0152" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0152"/>
-            <informationAssociation gml:id="ia0153" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0153"/>
-            <informationAssociation gml:id="ia0154" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0154"/>
+            <informationAssociation gml:id="ia0152" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0152"/>
+            <informationAssociation gml:id="ia0153" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0153"/>
+            <informationAssociation gml:id="ia0154" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0154"/>
             <country>Ireland</country>
             <dateOfIssue>2002-07-01</dateOfIssue>
             <dateOfLastUpdate>2022-04-01</dateOfLastUpdate>
@@ -193,12 +193,12 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0016">
-            <informationAssociation gml:id="ia0184" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0184"/>
-            <informationAssociation gml:id="ia0185" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0185"/>
-            <informationAssociation gml:id="ia0186" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0186"/>
-            <informationAssociation gml:id="ia0187" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0187"/>
-            <informationAssociation gml:id="ia0188" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0188"/>
-            <informationAssociation gml:id="ia0189" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0189"/>
+            <informationAssociation gml:id="ia0184" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0184"/>
+            <informationAssociation gml:id="ia0185" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0185"/>
+            <informationAssociation gml:id="ia0186" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0186"/>
+            <informationAssociation gml:id="ia0187" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0187"/>
+            <informationAssociation gml:id="ia0188" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0188"/>
+            <informationAssociation gml:id="ia0189" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0189"/>
             <country>Italian Republic</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-08-01</dateOfLastUpdate>
@@ -206,33 +206,33 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0017">
-            <informationAssociation gml:id="ia0190" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0190"/>
-            <informationAssociation gml:id="ia0191" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0191"/>
-            <informationAssociation gml:id="ia0192" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0192"/>
-            <informationAssociation gml:id="ia0193" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0193"/>
-            <informationAssociation gml:id="ia0194" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0194"/>
-            <informationAssociation gml:id="ia0195" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0195"/>
-            <informationAssociation gml:id="ia0196" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0196"/>
-            <informationAssociation gml:id="ia0197" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0197"/>
-            <informationAssociation gml:id="ia0198" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0198"/>
-            <informationAssociation gml:id="ia0199" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0199"/>
-            <informationAssociation gml:id="ia0200" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0200"/>
-            <informationAssociation gml:id="ia0201" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0201"/>
-            <informationAssociation gml:id="ia0202" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0202"/>
-            <informationAssociation gml:id="ia0203" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0203"/>
-            <informationAssociation gml:id="ia0204" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0204"/>
-            <informationAssociation gml:id="ia0205" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0205"/>
-            <informationAssociation gml:id="ia0206" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0206"/>
-            <informationAssociation gml:id="ia0207" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0207"/>
-            <informationAssociation gml:id="ia0208" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0208"/>
-            <informationAssociation gml:id="ia0209" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0209"/>
-            <informationAssociation gml:id="ia0210" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0210"/>
-            <informationAssociation gml:id="ia0211" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0211"/>
-            <informationAssociation gml:id="ia0212" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0212"/>
-            <informationAssociation gml:id="ia0213" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0213"/>
-            <informationAssociation gml:id="ia0214" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0214"/>
-            <informationAssociation gml:id="ia0215" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0215"/>
-            <informationAssociation gml:id="ia0216" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0216"/>
+            <informationAssociation gml:id="ia0190" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0190"/>
+            <informationAssociation gml:id="ia0191" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0191"/>
+            <informationAssociation gml:id="ia0192" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0192"/>
+            <informationAssociation gml:id="ia0193" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0193"/>
+            <informationAssociation gml:id="ia0194" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0194"/>
+            <informationAssociation gml:id="ia0195" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0195"/>
+            <informationAssociation gml:id="ia0196" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0196"/>
+            <informationAssociation gml:id="ia0197" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0197"/>
+            <informationAssociation gml:id="ia0198" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0198"/>
+            <informationAssociation gml:id="ia0199" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0199"/>
+            <informationAssociation gml:id="ia0200" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0200"/>
+            <informationAssociation gml:id="ia0201" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0201"/>
+            <informationAssociation gml:id="ia0202" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0202"/>
+            <informationAssociation gml:id="ia0203" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0203"/>
+            <informationAssociation gml:id="ia0204" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0204"/>
+            <informationAssociation gml:id="ia0205" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0205"/>
+            <informationAssociation gml:id="ia0206" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0206"/>
+            <informationAssociation gml:id="ia0207" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0207"/>
+            <informationAssociation gml:id="ia0208" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0208"/>
+            <informationAssociation gml:id="ia0209" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0209"/>
+            <informationAssociation gml:id="ia0210" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0210"/>
+            <informationAssociation gml:id="ia0211" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0211"/>
+            <informationAssociation gml:id="ia0212" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0212"/>
+            <informationAssociation gml:id="ia0213" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0213"/>
+            <informationAssociation gml:id="ia0214" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0214"/>
+            <informationAssociation gml:id="ia0215" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0215"/>
+            <informationAssociation gml:id="ia0216" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0216"/>
             <country>Japan</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2019-03-01</dateOfLastUpdate>
@@ -240,7 +240,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0018">
-            <informationAssociation gml:id="ia0025" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0025"/>
+            <informationAssociation gml:id="ia0025" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0025"/>
             <country>Kingdom of Bahrain</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -248,7 +248,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0019">
-            <informationAssociation gml:id="ia0023" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0023"/>
+            <informationAssociation gml:id="ia0023" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0023"/>
             <country>Kingdom of Belgium</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2018-09-01</dateOfLastUpdate>
@@ -256,9 +256,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0020">
-            <informationAssociation gml:id="ia0091" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0091"/>
-            <informationAssociation gml:id="ia0092" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0092"/>
-            <informationAssociation gml:id="ia0093" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0093"/>
+            <informationAssociation gml:id="ia0091" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0091"/>
+            <informationAssociation gml:id="ia0092" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0092"/>
+            <informationAssociation gml:id="ia0093" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0093"/>
             <country>Kingdom of Denmark</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-01-01</dateOfLastUpdate>
@@ -266,19 +266,19 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0021">
-            <informationAssociation gml:id="ia0247" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0247"/>
-            <informationAssociation gml:id="ia0248" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0248"/>
-            <informationAssociation gml:id="ia0249" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0249"/>
-            <informationAssociation gml:id="ia0250" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0250"/>
-            <informationAssociation gml:id="ia0251" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0251"/>
-            <informationAssociation gml:id="ia0252" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0252"/>
-            <informationAssociation gml:id="ia0253" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0253"/>
-            <informationAssociation gml:id="ia0254" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0254"/>
-            <informationAssociation gml:id="ia0255" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0255"/>
-            <informationAssociation gml:id="ia0256" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0256"/>
-            <informationAssociation gml:id="ia0257" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0257"/>
-            <informationAssociation gml:id="ia0258" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0258"/>
-            <informationAssociation gml:id="ia0259" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0259"/>
+            <informationAssociation gml:id="ia0247" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0247"/>
+            <informationAssociation gml:id="ia0248" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0248"/>
+            <informationAssociation gml:id="ia0249" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0249"/>
+            <informationAssociation gml:id="ia0250" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0250"/>
+            <informationAssociation gml:id="ia0251" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0251"/>
+            <informationAssociation gml:id="ia0252" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0252"/>
+            <informationAssociation gml:id="ia0253" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0253"/>
+            <informationAssociation gml:id="ia0254" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0254"/>
+            <informationAssociation gml:id="ia0255" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0255"/>
+            <informationAssociation gml:id="ia0256" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0256"/>
+            <informationAssociation gml:id="ia0257" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0257"/>
+            <informationAssociation gml:id="ia0258" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0258"/>
+            <informationAssociation gml:id="ia0259" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0259"/>
             <country>Kingdom of Norway</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -286,8 +286,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0022">
-            <informationAssociation gml:id="ia0307" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0307"/>
-            <informationAssociation gml:id="ia0308" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0308"/>
+            <informationAssociation gml:id="ia0307" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0307"/>
+            <informationAssociation gml:id="ia0308" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0308"/>
             <country>Kingdom of Saudi Arabia</country>
             <dateOfIssue>2002-07-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -295,25 +295,25 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0023">
-            <informationAssociation gml:id="ia0102" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0102"/>
-            <informationAssociation gml:id="ia0103" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0103"/>
-            <informationAssociation gml:id="ia0104" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0104"/>
-            <informationAssociation gml:id="ia0105" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0105"/>
-            <informationAssociation gml:id="ia0106" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0106"/>
-            <informationAssociation gml:id="ia0107" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0107"/>
-            <informationAssociation gml:id="ia0108" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0108"/>
-            <informationAssociation gml:id="ia0109" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0109"/>
-            <informationAssociation gml:id="ia0110" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0110"/>
-            <informationAssociation gml:id="ia0111" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0111"/>
-            <informationAssociation gml:id="ia0112" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0112"/>
-            <informationAssociation gml:id="ia0113" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0113"/>
-            <informationAssociation gml:id="ia0114" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0114"/>
-            <informationAssociation gml:id="ia0115" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0115"/>
-            <informationAssociation gml:id="ia0116" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0116"/>
-            <informationAssociation gml:id="ia0117" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0117"/>
-            <informationAssociation gml:id="ia0118" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0118"/>
-            <informationAssociation gml:id="ia0119" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0119"/>
-            <informationAssociation gml:id="ia0120" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0120"/>
+            <informationAssociation gml:id="ia0102" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0102"/>
+            <informationAssociation gml:id="ia0103" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0103"/>
+            <informationAssociation gml:id="ia0104" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0104"/>
+            <informationAssociation gml:id="ia0105" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0105"/>
+            <informationAssociation gml:id="ia0106" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0106"/>
+            <informationAssociation gml:id="ia0107" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0107"/>
+            <informationAssociation gml:id="ia0108" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0108"/>
+            <informationAssociation gml:id="ia0109" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0109"/>
+            <informationAssociation gml:id="ia0110" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0110"/>
+            <informationAssociation gml:id="ia0111" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0111"/>
+            <informationAssociation gml:id="ia0112" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0112"/>
+            <informationAssociation gml:id="ia0113" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0113"/>
+            <informationAssociation gml:id="ia0114" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0114"/>
+            <informationAssociation gml:id="ia0115" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0115"/>
+            <informationAssociation gml:id="ia0116" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0116"/>
+            <informationAssociation gml:id="ia0117" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0117"/>
+            <informationAssociation gml:id="ia0118" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0118"/>
+            <informationAssociation gml:id="ia0119" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0119"/>
+            <informationAssociation gml:id="ia0120" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0120"/>
             <country>Kingdom of Spain</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -321,17 +321,17 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0024">
-            <informationAssociation gml:id="ia0309" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0309"/>
-            <informationAssociation gml:id="ia0310" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0310"/>
-            <informationAssociation gml:id="ia0311" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0311"/>
-            <informationAssociation gml:id="ia0312" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0312"/>
-            <informationAssociation gml:id="ia0313" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0313"/>
-            <informationAssociation gml:id="ia0314" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0314"/>
-            <informationAssociation gml:id="ia0315" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0315"/>
-            <informationAssociation gml:id="ia0316" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0316"/>
-            <informationAssociation gml:id="ia0317" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0317"/>
-            <informationAssociation gml:id="ia0318" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0318"/>
-            <informationAssociation gml:id="ia0319" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0319"/>
+            <informationAssociation gml:id="ia0309" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0309"/>
+            <informationAssociation gml:id="ia0310" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0310"/>
+            <informationAssociation gml:id="ia0311" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0311"/>
+            <informationAssociation gml:id="ia0312" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0312"/>
+            <informationAssociation gml:id="ia0313" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0313"/>
+            <informationAssociation gml:id="ia0314" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0314"/>
+            <informationAssociation gml:id="ia0315" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0315"/>
+            <informationAssociation gml:id="ia0316" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0316"/>
+            <informationAssociation gml:id="ia0317" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0317"/>
+            <informationAssociation gml:id="ia0318" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0318"/>
+            <informationAssociation gml:id="ia0319" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0319"/>
             <country>Kingdom of Sweden</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-08-01</dateOfLastUpdate>
@@ -339,7 +339,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0025">
-            <informationAssociation gml:id="ia0322" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0322"/>
+            <informationAssociation gml:id="ia0322" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0322"/>
             <country>Kingdom of Thailand</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -347,10 +347,10 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0026">
-            <informationAssociation gml:id="ia0243" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0243"/>
-            <informationAssociation gml:id="ia0244" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0244"/>
-            <informationAssociation gml:id="ia0245" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0245"/>
-            <informationAssociation gml:id="ia0246" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0246"/>
+            <informationAssociation gml:id="ia0243" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0243"/>
+            <informationAssociation gml:id="ia0244" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0244"/>
+            <informationAssociation gml:id="ia0245" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0245"/>
+            <informationAssociation gml:id="ia0246" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0246"/>
             <country>Kingdom of the Netherlands</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2015-01-01</dateOfLastUpdate>
@@ -358,7 +358,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0027">
-            <informationAssociation gml:id="ia0260" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0260"/>
+            <informationAssociation gml:id="ia0260" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0260"/>
             <country>New Zealand</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2021-07-01</dateOfLastUpdate>
@@ -366,9 +366,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0028">
-            <informationAssociation gml:id="ia0020" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0020"/>
-            <informationAssociation gml:id="ia0021" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0021"/>
-            <informationAssociation gml:id="ia0022" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0022"/>
+            <informationAssociation gml:id="ia0020" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0020"/>
+            <informationAssociation gml:id="ia0021" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0021"/>
+            <informationAssociation gml:id="ia0022" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0022"/>
             <country>People's Republic of Bangladesh</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -376,28 +376,28 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0029">
-            <informationAssociation gml:id="ia0057" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0057"/>
-            <informationAssociation gml:id="ia0058" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0058"/>
-            <informationAssociation gml:id="ia0059" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0059"/>
-            <informationAssociation gml:id="ia0060" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0060"/>
-            <informationAssociation gml:id="ia0061" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0061"/>
-            <informationAssociation gml:id="ia0062" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0062"/>
-            <informationAssociation gml:id="ia0063" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0063"/>
-            <informationAssociation gml:id="ia0064" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0064"/>
-            <informationAssociation gml:id="ia0065" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0065"/>
-            <informationAssociation gml:id="ia0066" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0066"/>
-            <informationAssociation gml:id="ia0067" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0067"/>
-            <informationAssociation gml:id="ia0068" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0068"/>
-            <informationAssociation gml:id="ia0069" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0069"/>
-            <informationAssociation gml:id="ia0070" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0070"/>
-            <informationAssociation gml:id="ia0071" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0071"/>
-            <informationAssociation gml:id="ia0072" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0072"/>
-            <informationAssociation gml:id="ia0073" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0073"/>
-            <informationAssociation gml:id="ia0074" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0074"/>
-            <informationAssociation gml:id="ia0075" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0075"/>
-            <informationAssociation gml:id="ia0076" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0076"/>
-            <informationAssociation gml:id="ia0077" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0077"/>
-            <informationAssociation gml:id="ia0078" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0078"/>
+            <informationAssociation gml:id="ia0057" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0057"/>
+            <informationAssociation gml:id="ia0058" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0058"/>
+            <informationAssociation gml:id="ia0059" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0059"/>
+            <informationAssociation gml:id="ia0060" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0060"/>
+            <informationAssociation gml:id="ia0061" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0061"/>
+            <informationAssociation gml:id="ia0062" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0062"/>
+            <informationAssociation gml:id="ia0063" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0063"/>
+            <informationAssociation gml:id="ia0064" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0064"/>
+            <informationAssociation gml:id="ia0065" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0065"/>
+            <informationAssociation gml:id="ia0066" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0066"/>
+            <informationAssociation gml:id="ia0067" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0067"/>
+            <informationAssociation gml:id="ia0068" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0068"/>
+            <informationAssociation gml:id="ia0069" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0069"/>
+            <informationAssociation gml:id="ia0070" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0070"/>
+            <informationAssociation gml:id="ia0071" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0071"/>
+            <informationAssociation gml:id="ia0072" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0072"/>
+            <informationAssociation gml:id="ia0073" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0073"/>
+            <informationAssociation gml:id="ia0074" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0074"/>
+            <informationAssociation gml:id="ia0075" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0075"/>
+            <informationAssociation gml:id="ia0076" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0076"/>
+            <informationAssociation gml:id="ia0077" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0077"/>
+            <informationAssociation gml:id="ia0078" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0078"/>
             <country>People's Republic of China</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -405,10 +405,10 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0030">
-            <informationAssociation gml:id="ia0270" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0270"/>
-            <informationAssociation gml:id="ia0271" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0271"/>
-            <informationAssociation gml:id="ia0272" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0272"/>
-            <informationAssociation gml:id="ia0273" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0273"/>
+            <informationAssociation gml:id="ia0270" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0270"/>
+            <informationAssociation gml:id="ia0271" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0271"/>
+            <informationAssociation gml:id="ia0272" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0272"/>
+            <informationAssociation gml:id="ia0273" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0273"/>
             <country>Portuguese Republic</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -416,7 +416,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0031">
-            <informationAssociation gml:id="ia0269" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0269"/>
+            <informationAssociation gml:id="ia0269" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0269"/>
             <country>Puerto Rico</country>
             <dateOfIssue>2005-10-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -424,7 +424,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0032">
-            <informationAssociation gml:id="ia0019" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0019"/>
+            <informationAssociation gml:id="ia0019" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0019"/>
             <country>Republic of Azerbaijan</country>
             <dateOfIssue>2012-12-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -432,7 +432,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0033">
-            <informationAssociation gml:id="ia0024" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0024"/>
+            <informationAssociation gml:id="ia0024" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0024"/>
             <country>Republic of Bulgaria</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -440,8 +440,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0034">
-            <informationAssociation gml:id="ia0094" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0094"/>
-            <informationAssociation gml:id="ia0095" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0095"/>
+            <informationAssociation gml:id="ia0094" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0094"/>
+            <informationAssociation gml:id="ia0095" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0095"/>
             <country>Republic of Estonia</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2018-09-01</dateOfLastUpdate>
@@ -449,16 +449,16 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0035">
-            <informationAssociation gml:id="ia0121" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0121"/>
-            <informationAssociation gml:id="ia0122" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0122"/>
-            <informationAssociation gml:id="ia0123" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0123"/>
-            <informationAssociation gml:id="ia0124" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0124"/>
-            <informationAssociation gml:id="ia0125" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0125"/>
-            <informationAssociation gml:id="ia0126" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0126"/>
-            <informationAssociation gml:id="ia0127" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0127"/>
-            <informationAssociation gml:id="ia0128" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0128"/>
-            <informationAssociation gml:id="ia0129" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0129"/>
-            <informationAssociation gml:id="ia0130" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0130"/>
+            <informationAssociation gml:id="ia0121" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0121"/>
+            <informationAssociation gml:id="ia0122" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0122"/>
+            <informationAssociation gml:id="ia0123" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0123"/>
+            <informationAssociation gml:id="ia0124" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0124"/>
+            <informationAssociation gml:id="ia0125" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0125"/>
+            <informationAssociation gml:id="ia0126" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0126"/>
+            <informationAssociation gml:id="ia0127" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0127"/>
+            <informationAssociation gml:id="ia0128" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0128"/>
+            <informationAssociation gml:id="ia0129" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0129"/>
+            <informationAssociation gml:id="ia0130" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0130"/>
             <country>Republic of Finland</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -466,12 +466,12 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0036">
-            <informationAssociation gml:id="ia0178" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0178"/>
-            <informationAssociation gml:id="ia0179" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0179"/>
-            <informationAssociation gml:id="ia0180" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0180"/>
-            <informationAssociation gml:id="ia0181" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0181"/>
-            <informationAssociation gml:id="ia0182" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0182"/>
-            <informationAssociation gml:id="ia0183" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0183"/>
+            <informationAssociation gml:id="ia0178" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0178"/>
+            <informationAssociation gml:id="ia0179" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0179"/>
+            <informationAssociation gml:id="ia0180" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0180"/>
+            <informationAssociation gml:id="ia0181" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0181"/>
+            <informationAssociation gml:id="ia0182" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0182"/>
+            <informationAssociation gml:id="ia0183" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0183"/>
             <country>Republic of Iceland</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -479,29 +479,29 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0037">
-            <informationAssociation gml:id="ia0155" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0155"/>
-            <informationAssociation gml:id="ia0156" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0156"/>
-            <informationAssociation gml:id="ia0157" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0157"/>
-            <informationAssociation gml:id="ia0158" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0158"/>
-            <informationAssociation gml:id="ia0159" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0159"/>
-            <informationAssociation gml:id="ia0160" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0160"/>
-            <informationAssociation gml:id="ia0161" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0161"/>
-            <informationAssociation gml:id="ia0162" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0162"/>
-            <informationAssociation gml:id="ia0163" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0163"/>
-            <informationAssociation gml:id="ia0164" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0164"/>
-            <informationAssociation gml:id="ia0165" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0165"/>
-            <informationAssociation gml:id="ia0166" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0166"/>
-            <informationAssociation gml:id="ia0167" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0167"/>
-            <informationAssociation gml:id="ia0168" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0168"/>
-            <informationAssociation gml:id="ia0169" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0169"/>
-            <informationAssociation gml:id="ia0170" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0170"/>
-            <informationAssociation gml:id="ia0171" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0171"/>
-            <informationAssociation gml:id="ia0172" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0172"/>
-            <informationAssociation gml:id="ia0173" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0173"/>
-            <informationAssociation gml:id="ia0174" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0174"/>
-            <informationAssociation gml:id="ia0175" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0175"/>
-            <informationAssociation gml:id="ia0176" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0176"/>
-            <informationAssociation gml:id="ia0177" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0177"/>
+            <informationAssociation gml:id="ia0155" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0155"/>
+            <informationAssociation gml:id="ia0156" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0156"/>
+            <informationAssociation gml:id="ia0157" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0157"/>
+            <informationAssociation gml:id="ia0158" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0158"/>
+            <informationAssociation gml:id="ia0159" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0159"/>
+            <informationAssociation gml:id="ia0160" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0160"/>
+            <informationAssociation gml:id="ia0161" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0161"/>
+            <informationAssociation gml:id="ia0162" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0162"/>
+            <informationAssociation gml:id="ia0163" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0163"/>
+            <informationAssociation gml:id="ia0164" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0164"/>
+            <informationAssociation gml:id="ia0165" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0165"/>
+            <informationAssociation gml:id="ia0166" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0166"/>
+            <informationAssociation gml:id="ia0167" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0167"/>
+            <informationAssociation gml:id="ia0168" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0168"/>
+            <informationAssociation gml:id="ia0169" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0169"/>
+            <informationAssociation gml:id="ia0170" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0170"/>
+            <informationAssociation gml:id="ia0171" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0171"/>
+            <informationAssociation gml:id="ia0172" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0172"/>
+            <informationAssociation gml:id="ia0173" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0173"/>
+            <informationAssociation gml:id="ia0174" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0174"/>
+            <informationAssociation gml:id="ia0175" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0175"/>
+            <informationAssociation gml:id="ia0176" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0176"/>
+            <informationAssociation gml:id="ia0177" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0177"/>
             <country>Republic of India</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -509,23 +509,23 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0038">
-            <informationAssociation gml:id="ia0217" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0217"/>
-            <informationAssociation gml:id="ia0218" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0218"/>
-            <informationAssociation gml:id="ia0219" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0219"/>
-            <informationAssociation gml:id="ia0220" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0220"/>
-            <informationAssociation gml:id="ia0221" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0221"/>
-            <informationAssociation gml:id="ia0222" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0222"/>
-            <informationAssociation gml:id="ia0223" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0223"/>
-            <informationAssociation gml:id="ia0224" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0224"/>
-            <informationAssociation gml:id="ia0225" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0225"/>
-            <informationAssociation gml:id="ia0226" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0226"/>
-            <informationAssociation gml:id="ia0227" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0227"/>
-            <informationAssociation gml:id="ia0228" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0228"/>
-            <informationAssociation gml:id="ia0229" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0229"/>
-            <informationAssociation gml:id="ia0230" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0230"/>
-            <informationAssociation gml:id="ia0231" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0231"/>
-            <informationAssociation gml:id="ia0232" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0232"/>
-            <informationAssociation gml:id="ia0233" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0233"/>
+            <informationAssociation gml:id="ia0217" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0217"/>
+            <informationAssociation gml:id="ia0218" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0218"/>
+            <informationAssociation gml:id="ia0219" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0219"/>
+            <informationAssociation gml:id="ia0220" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0220"/>
+            <informationAssociation gml:id="ia0221" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0221"/>
+            <informationAssociation gml:id="ia0222" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0222"/>
+            <informationAssociation gml:id="ia0223" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0223"/>
+            <informationAssociation gml:id="ia0224" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0224"/>
+            <informationAssociation gml:id="ia0225" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0225"/>
+            <informationAssociation gml:id="ia0226" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0226"/>
+            <informationAssociation gml:id="ia0227" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0227"/>
+            <informationAssociation gml:id="ia0228" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0228"/>
+            <informationAssociation gml:id="ia0229" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0229"/>
+            <informationAssociation gml:id="ia0230" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0230"/>
+            <informationAssociation gml:id="ia0231" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0231"/>
+            <informationAssociation gml:id="ia0232" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0232"/>
+            <informationAssociation gml:id="ia0233" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0233"/>
             <country>Republic of Korea</country>
             <dateOfIssue>2006-11-01</dateOfIssue>
             <dateOfLastUpdate>2018-09-01</dateOfLastUpdate>
@@ -533,7 +533,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0039">
-            <informationAssociation gml:id="ia0236" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0236"/>
+            <informationAssociation gml:id="ia0236" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0236"/>
             <country>Republic of Latvia</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -541,7 +541,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0040">
-            <informationAssociation gml:id="ia0235" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0235"/>
+            <informationAssociation gml:id="ia0235" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0235"/>
             <country>Republic of Lithuania</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -549,8 +549,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0041">
-            <informationAssociation gml:id="ia0264" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0264"/>
-            <informationAssociation gml:id="ia0265" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0265"/>
+            <informationAssociation gml:id="ia0264" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0264"/>
+            <informationAssociation gml:id="ia0265" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0265"/>
             <country>Republic of Panama</country>
             <dateOfIssue>2012-03-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -558,9 +558,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0042">
-            <informationAssociation gml:id="ia0266" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0266"/>
-            <informationAssociation gml:id="ia0267" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0267"/>
-            <informationAssociation gml:id="ia0268" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0268"/>
+            <informationAssociation gml:id="ia0266" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0266"/>
+            <informationAssociation gml:id="ia0267" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0267"/>
+            <informationAssociation gml:id="ia0268" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0268"/>
             <country>Republic of Poland</country>
             <dateOfIssue>2012-03-01</dateOfIssue>
             <dateOfLastUpdate>2012-01-01</dateOfLastUpdate>
@@ -568,7 +568,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0043">
-            <informationAssociation gml:id="ia0276" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0276"/>
+            <informationAssociation gml:id="ia0276" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0276"/>
             <country>Republic of Serbia</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -576,8 +576,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0044">
-            <informationAssociation gml:id="ia0320" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0320"/>
-            <informationAssociation gml:id="ia0321" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0321"/>
+            <informationAssociation gml:id="ia0320" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0320"/>
+            <informationAssociation gml:id="ia0321" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0321"/>
             <country>Republic of Singapore</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -585,8 +585,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0045">
-            <informationAssociation gml:id="ia0323" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0323"/>
-            <informationAssociation gml:id="ia0324" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0324"/>
+            <informationAssociation gml:id="ia0323" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0323"/>
+            <informationAssociation gml:id="ia0324" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0324"/>
             <country>Republic of Turkey</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2018-09-01</dateOfLastUpdate>
@@ -594,8 +594,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0046">
-            <informationAssociation gml:id="ia0274" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0274"/>
-            <informationAssociation gml:id="ia0275" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0275"/>
+            <informationAssociation gml:id="ia0274" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0274"/>
+            <informationAssociation gml:id="ia0275" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0275"/>
             <country>Romania</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -603,36 +603,36 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0047">
-            <informationAssociation gml:id="ia0277" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0277"/>
-            <informationAssociation gml:id="ia0278" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0278"/>
-            <informationAssociation gml:id="ia0279" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0279"/>
-            <informationAssociation gml:id="ia0280" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0280"/>
-            <informationAssociation gml:id="ia0281" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0281"/>
-            <informationAssociation gml:id="ia0282" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0282"/>
-            <informationAssociation gml:id="ia0283" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0283"/>
-            <informationAssociation gml:id="ia0284" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0284"/>
-            <informationAssociation gml:id="ia0285" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0285"/>
-            <informationAssociation gml:id="ia0286" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0286"/>
-            <informationAssociation gml:id="ia0287" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0287"/>
-            <informationAssociation gml:id="ia0288" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0288"/>
-            <informationAssociation gml:id="ia0289" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0289"/>
-            <informationAssociation gml:id="ia0290" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0290"/>
-            <informationAssociation gml:id="ia0291" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0291"/>
-            <informationAssociation gml:id="ia0292" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0292"/>
-            <informationAssociation gml:id="ia0293" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0293"/>
-            <informationAssociation gml:id="ia0294" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0294"/>
-            <informationAssociation gml:id="ia0295" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0295"/>
-            <informationAssociation gml:id="ia0296" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0296"/>
-            <informationAssociation gml:id="ia0297" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0297"/>
-            <informationAssociation gml:id="ia0298" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0298"/>
-            <informationAssociation gml:id="ia0299" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0299"/>
-            <informationAssociation gml:id="ia0300" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0300"/>
-            <informationAssociation gml:id="ia0301" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0301"/>
-            <informationAssociation gml:id="ia0302" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0302"/>
-            <informationAssociation gml:id="ia0303" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0303"/>
-            <informationAssociation gml:id="ia0304" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0304"/>
-            <informationAssociation gml:id="ia0305" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0305"/>
-            <informationAssociation gml:id="ia0306" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0306"/>
+            <informationAssociation gml:id="ia0277" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0277"/>
+            <informationAssociation gml:id="ia0278" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0278"/>
+            <informationAssociation gml:id="ia0279" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0279"/>
+            <informationAssociation gml:id="ia0280" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0280"/>
+            <informationAssociation gml:id="ia0281" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0281"/>
+            <informationAssociation gml:id="ia0282" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0282"/>
+            <informationAssociation gml:id="ia0283" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0283"/>
+            <informationAssociation gml:id="ia0284" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0284"/>
+            <informationAssociation gml:id="ia0285" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0285"/>
+            <informationAssociation gml:id="ia0286" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0286"/>
+            <informationAssociation gml:id="ia0287" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0287"/>
+            <informationAssociation gml:id="ia0288" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0288"/>
+            <informationAssociation gml:id="ia0289" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0289"/>
+            <informationAssociation gml:id="ia0290" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0290"/>
+            <informationAssociation gml:id="ia0291" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0291"/>
+            <informationAssociation gml:id="ia0292" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0292"/>
+            <informationAssociation gml:id="ia0293" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0293"/>
+            <informationAssociation gml:id="ia0294" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0294"/>
+            <informationAssociation gml:id="ia0295" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0295"/>
+            <informationAssociation gml:id="ia0296" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0296"/>
+            <informationAssociation gml:id="ia0297" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0297"/>
+            <informationAssociation gml:id="ia0298" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0298"/>
+            <informationAssociation gml:id="ia0299" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0299"/>
+            <informationAssociation gml:id="ia0300" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0300"/>
+            <informationAssociation gml:id="ia0301" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0301"/>
+            <informationAssociation gml:id="ia0302" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0302"/>
+            <informationAssociation gml:id="ia0303" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0303"/>
+            <informationAssociation gml:id="ia0304" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0304"/>
+            <informationAssociation gml:id="ia0305" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0305"/>
+            <informationAssociation gml:id="ia0306" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0306"/>
             <country>Russian Federation</country>
             <dateOfIssue>2010-11-01</dateOfIssue>
             <dateOfLastUpdate>2015-11-01</dateOfLastUpdate>
@@ -640,15 +640,15 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0048">
-            <informationAssociation gml:id="ia0363" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0363"/>
-            <informationAssociation gml:id="ia0364" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0364"/>
-            <informationAssociation gml:id="ia0365" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0365"/>
-            <informationAssociation gml:id="ia0366" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0366"/>
-            <informationAssociation gml:id="ia0367" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0367"/>
-            <informationAssociation gml:id="ia0368" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0368"/>
-            <informationAssociation gml:id="ia0369" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0369"/>
-            <informationAssociation gml:id="ia0370" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0370"/>
-            <informationAssociation gml:id="ia0371" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0371"/>
+            <informationAssociation gml:id="ia0363" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0363"/>
+            <informationAssociation gml:id="ia0364" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0364"/>
+            <informationAssociation gml:id="ia0365" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0365"/>
+            <informationAssociation gml:id="ia0366" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0366"/>
+            <informationAssociation gml:id="ia0367" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0367"/>
+            <informationAssociation gml:id="ia0368" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0368"/>
+            <informationAssociation gml:id="ia0369" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0369"/>
+            <informationAssociation gml:id="ia0370" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0370"/>
+            <informationAssociation gml:id="ia0371" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0371"/>
             <country>Socialist Republic of Viet Nam</country>
             <dateOfIssue>2009-12-01</dateOfIssue>
             <dateOfLastUpdate>2015-08-01</dateOfLastUpdate>
@@ -656,7 +656,7 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0049">
-            <informationAssociation gml:id="ia0234" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0234"/>
+            <informationAssociation gml:id="ia0234" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0234"/>
             <country>State of Kuwait</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -664,9 +664,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0050">
-            <informationAssociation gml:id="ia0261" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0261"/>
-            <informationAssociation gml:id="ia0262" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0262"/>
-            <informationAssociation gml:id="ia0263" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0263"/>
+            <informationAssociation gml:id="ia0261" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0261"/>
+            <informationAssociation gml:id="ia0262" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0262"/>
+            <informationAssociation gml:id="ia0263" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0263"/>
             <country>Sultanate of Oman</country>
             <dateOfIssue>2014-11-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -674,9 +674,9 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0051">
-            <informationAssociation gml:id="ia0327" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0327"/>
-            <informationAssociation gml:id="ia0328" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0328"/>
-            <informationAssociation gml:id="ia0329" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0329"/>
+            <informationAssociation gml:id="ia0327" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0327"/>
+            <informationAssociation gml:id="ia0328" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0328"/>
+            <informationAssociation gml:id="ia0329" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0329"/>
             <country>Ukraine</country>
             <dateOfIssue>2005-07-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -684,8 +684,8 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0052">
-            <informationAssociation gml:id="ia0001" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0001"/>
-            <informationAssociation gml:id="ia0002" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0002"/>
+            <informationAssociation gml:id="ia0001" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0001"/>
+            <informationAssociation gml:id="ia0002" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0002"/>
             <country>United Arab Emirates</country>
             <dateOfIssue>2002-01-01</dateOfIssue>
             <dateOfLastUpdate>2014-11-01</dateOfLastUpdate>
@@ -693,17 +693,17 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0053">
-            <informationAssociation gml:id="ia0138" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0138"/>
-            <informationAssociation gml:id="ia0139" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0139"/>
-            <informationAssociation gml:id="ia0140" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0140"/>
-            <informationAssociation gml:id="ia0141" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0141"/>
-            <informationAssociation gml:id="ia0142" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0142"/>
-            <informationAssociation gml:id="ia0143" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0143"/>
-            <informationAssociation gml:id="ia0144" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0144"/>
-            <informationAssociation gml:id="ia0145" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0145"/>
-            <informationAssociation gml:id="ia0146" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0146"/>
-            <informationAssociation gml:id="ia0147" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0147"/>
-            <informationAssociation gml:id="ia0148" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0148"/>
+            <informationAssociation gml:id="ia0138" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0138"/>
+            <informationAssociation gml:id="ia0139" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0139"/>
+            <informationAssociation gml:id="ia0140" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0140"/>
+            <informationAssociation gml:id="ia0141" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0141"/>
+            <informationAssociation gml:id="ia0142" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0142"/>
+            <informationAssociation gml:id="ia0143" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0143"/>
+            <informationAssociation gml:id="ia0144" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0144"/>
+            <informationAssociation gml:id="ia0145" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0145"/>
+            <informationAssociation gml:id="ia0146" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0146"/>
+            <informationAssociation gml:id="ia0147" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0147"/>
+            <informationAssociation gml:id="ia0148" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0148"/>
             <country>United Kingdom of Great Britain and Northern Ireland</country>
             <dateOfIssue>1998-01-01</dateOfIssue>
             <dateOfLastUpdate>2022-04-01</dateOfLastUpdate>
@@ -711,39 +711,39 @@
     </imember>
     <imember>
         <DgnssStationRegion gml:id="DGNSSSTATIONREGION-0054">
-            <informationAssociation gml:id="ia0330" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0330"/>
-            <informationAssociation gml:id="ia0331" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0331"/>
-            <informationAssociation gml:id="ia0332" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0332"/>
-            <informationAssociation gml:id="ia0333" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0333"/>
-            <informationAssociation gml:id="ia0334" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0334"/>
-            <informationAssociation gml:id="ia0335" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0335"/>
-            <informationAssociation gml:id="ia0336" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0336"/>
-            <informationAssociation gml:id="ia0337" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0337"/>
-            <informationAssociation gml:id="ia0338" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0338"/>
-            <informationAssociation gml:id="ia0339" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0339"/>
-            <informationAssociation gml:id="ia0340" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0340"/>
-            <informationAssociation gml:id="ia0341" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0341"/>
-            <informationAssociation gml:id="ia0342" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0342"/>
-            <informationAssociation gml:id="ia0343" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0343"/>
-            <informationAssociation gml:id="ia0344" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0344"/>
-            <informationAssociation gml:id="ia0345" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0345"/>
-            <informationAssociation gml:id="ia0346" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0346"/>
-            <informationAssociation gml:id="ia0347" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0347"/>
-            <informationAssociation gml:id="ia0348" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0348"/>
-            <informationAssociation gml:id="ia0349" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0349"/>
-            <informationAssociation gml:id="ia0350" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0350"/>
-            <informationAssociation gml:id="ia0351" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0351"/>
-            <informationAssociation gml:id="ia0352" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0352"/>
-            <informationAssociation gml:id="ia0353" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0353"/>
-            <informationAssociation gml:id="ia0354" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0354"/>
-            <informationAssociation gml:id="ia0355" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0355"/>
-            <informationAssociation gml:id="ia0356" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0356"/>
-            <informationAssociation gml:id="ia0357" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0357"/>
-            <informationAssociation gml:id="ia0358" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0358"/>
-            <informationAssociation gml:id="ia0359" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0359"/>
-            <informationAssociation gml:id="ia0360" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0360"/>
-            <informationAssociation gml:id="ia0361" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0361"/>
-            <informationAssociation gml:id="ia0362" xlink:title="RadioStationToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0362"/>
+            <informationAssociation gml:id="ia0330" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0330"/>
+            <informationAssociation gml:id="ia0331" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0331"/>
+            <informationAssociation gml:id="ia0332" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0332"/>
+            <informationAssociation gml:id="ia0333" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0333"/>
+            <informationAssociation gml:id="ia0334" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0334"/>
+            <informationAssociation gml:id="ia0335" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0335"/>
+            <informationAssociation gml:id="ia0336" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0336"/>
+            <informationAssociation gml:id="ia0337" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0337"/>
+            <informationAssociation gml:id="ia0338" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0338"/>
+            <informationAssociation gml:id="ia0339" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0339"/>
+            <informationAssociation gml:id="ia0340" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0340"/>
+            <informationAssociation gml:id="ia0341" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0341"/>
+            <informationAssociation gml:id="ia0342" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0342"/>
+            <informationAssociation gml:id="ia0343" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0343"/>
+            <informationAssociation gml:id="ia0344" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0344"/>
+            <informationAssociation gml:id="ia0345" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0345"/>
+            <informationAssociation gml:id="ia0346" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0346"/>
+            <informationAssociation gml:id="ia0347" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0347"/>
+            <informationAssociation gml:id="ia0348" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0348"/>
+            <informationAssociation gml:id="ia0349" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0349"/>
+            <informationAssociation gml:id="ia0350" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0350"/>
+            <informationAssociation gml:id="ia0351" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0351"/>
+            <informationAssociation gml:id="ia0352" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0352"/>
+            <informationAssociation gml:id="ia0353" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0353"/>
+            <informationAssociation gml:id="ia0354" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0354"/>
+            <informationAssociation gml:id="ia0355" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0355"/>
+            <informationAssociation gml:id="ia0356" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0356"/>
+            <informationAssociation gml:id="ia0357" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0357"/>
+            <informationAssociation gml:id="ia0358" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0358"/>
+            <informationAssociation gml:id="ia0359" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0359"/>
+            <informationAssociation gml:id="ia0360" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0360"/>
+            <informationAssociation gml:id="ia0361" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0361"/>
+            <informationAssociation gml:id="ia0362" xlink:title="DgnssStationRegionToDgnssStationAlmanac" xlink:href="#DGNSSSTATIONALMANAC-0362"/>
             <country>United States of America</country>
             <dateOfIssue>2005-10-01</dateOfIssue>
             <dateOfLastUpdate>2020-06-01</dateOfLastUpdate>
